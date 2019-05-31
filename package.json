@@ -1,0 +1,19 @@
+{
+  "name": "MagicWeaponCatalog-Backend",
+  "version": "0.0.1",
+  "description": "Web App for Magic Items in the D&D universe",
+  "main": "index.js",
+  "author": "Cody Brewer <brewer.cody.m@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "knex": "^0.17.0",
+    "sqlite3": "^4.0.8"
+  }
+}
